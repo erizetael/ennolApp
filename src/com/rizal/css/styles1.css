@@ -1,0 +1,13 @@
+.button{
+    -fx-background-color: transparent;
+    -fx-text-fill: gainsboro;
+    -fx-font-size: 11pt;
+    -fx-font-family: sans-serif;
+}
+
+.button:hover{
+    -fx-background-color: transparent;
+    -fx-text-fill: cornflowerblue;
+
+
+}
